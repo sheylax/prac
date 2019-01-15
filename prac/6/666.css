@@ -1,0 +1,36 @@
+div{
+    width: 200;
+    height: 200;
+    border: 4px solid blue;
+    position: absolute;
+    border-radius: 100%;
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+
+}
+div:hover{
+    border: 4px dashed white;
+}
+.x{
+    background-color: tomato;
+    width: 90%;
+    height: 600;
+    border-radius: 0%;
+
+}
+.y1{
+    background-color: darkcyan;
+    top: 10px;
+    left: 100px;
+    z-index: 1; /**z index baraye olaviate jolo ya aghab bordane onsor dar tasvir*/
+}
+.y2{
+    background-color: blueviolet;
+    top: 10px;
+}
+.y3{
+    background-color: darkgoldenrod;
+    top: 100px;
+    left: 50px;
+}

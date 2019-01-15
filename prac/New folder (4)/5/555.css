@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    padding: 20px 0;
+}
+.y{
+    background-color: darkorchid;
+    padding: 20px;
+
+}
+span{
+    text-transform: uppercase;
+    margin-left: 10px;
+
+}
+img{
+    vertical-align: middle;
+    width: 80px;
+    height: 70px;
+    border-radius: 50%;
+    
+}
